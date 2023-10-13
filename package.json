@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "author": "wangdonghui",
   "dependencies": {
-    "koc-common-redis": "^2.0.2",
-    "koc-common-return": "^2.0.8",
-    "koc-common-string": "^1.0.48",
-    "mysql2": "^2.1.0",
-    "sequelize": "^6.3.4"
-  },
-  "devDependencies": {}
+    "koc-common-redis": "^2.0.6",
+    "koc-common-return": "^2.0.11",
+    "koc-common-string": "^1.0.52",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0"
+  }
 }
